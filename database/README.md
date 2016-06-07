@@ -217,7 +217,7 @@ RecyclerView is the new preferred way to handle potentially long lists of items.
 can contain many items, there is an `FirebaseRecyclerAdapter` too. Here's how you use it:
 
 1. Create a custom ViewHolder class
-2. Create a custom subclass FirebaseListAdapter
+2. Create a custom subclass FirebaseRecyclerAdapter
 
 The rest of the steps is the same as for the `FirebaseListAdapter` above, so be sure to read that first.
 
